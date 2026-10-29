@@ -1,0 +1,1 @@
+"""Independent Streamlit trade analytics."""
